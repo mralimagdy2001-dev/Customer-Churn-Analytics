@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project focused on understanding customer churn, identifying retention risk drivers, and providing executive-level recommendations. This repository includes dataset analyses, service adoption patterns, and an automated Python tool that generates a print-ready executive PDF report.
 
-![Dashboard Preview](images/dashboard_preview.png)
+[Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
@@ -59,12 +59,4 @@ This analysis evaluates key performance indicators across **$16.05M** in yearly 
 
 ---
 
-## 📂 Project Structure
 
-```text
-├── README.md                          # Project Documentation & Executive Overview
-├── generate_dashboard.py              # Python Script for HTML & PDF Generation
-├── customer_churn_dashboard.html      # Raw Rendered HTML Template
-├── customer_churn_dashboard.pdf       # Final Executive PDF Dashboard Output
-└── images/
-    └── dashboard_preview.png          # Dashboard Screenshot Preview
