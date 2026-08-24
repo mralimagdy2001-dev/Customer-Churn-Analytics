@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project focused on understanding customer churn, identifying retention risk drivers, and providing executive-level recommendations. This repository includes dataset analyses, service adoption patterns, and an automated Python tool that generates a print-ready executive PDF report.
 
-[Dashboard Preview](images/dashboard_preview.png)
+[Dashboard Preview](dashboard)
 
 ---
 
