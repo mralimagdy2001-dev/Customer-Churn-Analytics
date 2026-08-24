@@ -52,11 +52,11 @@ This analysis evaluates key performance indicators across **$16.05M** in yearly 
 
 ## 🛠️ Tools & Technologies Used
 
-* **Language & Analysis:** Python 3.x, `pandas`
-* **PDF Report Generation:** `WeasyPrint` (HTML/CSS to PDF Engine using `@page` paged media rules)
-* **Design & Templating:** Responsive HTML layout with custom CSS data visuals (KPI Cards, Bar Charts, and Data Tables)
-* **Version Control:** Git & GitHub
-
+* **Power BI**
+* **Excel**
+* **Figma**
+* **Data Modeling**
+  
 ---
 
 
