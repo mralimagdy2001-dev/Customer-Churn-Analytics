@@ -59,4 +59,19 @@ This analysis evaluates key performance indicators across **$16.05M** in yearly 
   
 ---
 
+📁 Repository Structure
+Project/
+│
+├── Dataset/
+├── SQL/
+├── Power BI/
+├── Images/
+├── Documentation/
+└── README.md
+
+---
+
+👤 Author
+Ali Magdy
+[GitHub](https://github.com/mralimagdy2001-dev) | [LinkedIn](https://www.linkedin.com/in/ali-magdy-mahmoud/)
 
