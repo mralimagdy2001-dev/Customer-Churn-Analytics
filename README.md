@@ -65,7 +65,7 @@ This analysis evaluates key performance indicators across **$16.05M** in yearly 
 Customer-Churn-Analytics/
 │
 ├── Dataset/
-│   └── supply_chain_data.csv
+│   └── 02 Customer Churn-Dataset.xlsx
 │
 ├── Power BI/
 │   └── Supply_Chain_Dashboard.pbix
