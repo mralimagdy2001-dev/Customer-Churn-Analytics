@@ -62,7 +62,7 @@ This analysis evaluates key performance indicators across **$16.05M** in yearly 
 ## 📁 Repository Structure
 
 ```text
-Supply-Chain-Analytics/
+Customer-Churn-Analytics/
 │
 ├── Dataset/
 │   └── supply_chain_data.csv
