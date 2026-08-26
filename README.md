@@ -68,12 +68,14 @@ Customer-Churn-Analytics/
 │   └── 02 Customer Churn-Dataset.xlsx
 │
 ├── Power BI/
-│   └── Supply_Chain_Dashboard.pbix
+│   └── Customer_Churn_Dashboard.pbix
 │
 ├── Images/
-│   ├── dashboard_overview.png
-│   └── dashboard_analysis.png
-│
+│   ├── Welcome Page.png
+│   ├── Customer Insights.png
+|   ├── Service Insights.png
+|   └── Payment Insights.png
+| 
 ├── Documentation/
 │
 └── README.md
