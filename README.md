@@ -59,17 +59,16 @@ This analysis evaluates key performance indicators across **$16.05M** in yearly 
   
 ---
 
+## 📁 Repository Structure
 
-📁 Repository Structure
-
-
-Customer_Churn_Analytics/
+```text
+Supply-Chain-Analytics/
 │
 ├── Dataset/
-│   └── 02 Customer Churn-Dataset.xlsx
+│   └── supply_chain_data.csv
 │
 ├── Power BI/
-│   └──Customer_Churn_Dashboard.pbix
+│   └── Supply_Chain_Dashboard.pbix
 │
 ├── Images/
 │   ├── dashboard_overview.png
@@ -78,12 +77,12 @@ Customer_Churn_Analytics/
 ├── Documentation/
 │
 └── README.md
+```
 
 ---
 
-👤 Author
+## 👤 Author
 
-Ali Magdy
+**Ali Magdy**
 
 [GitHub](https://github.com/mralimagdy2001-dev) | [LinkedIn](https://www.linkedin.com/in/ali-magdy-mahmoud/)
-
