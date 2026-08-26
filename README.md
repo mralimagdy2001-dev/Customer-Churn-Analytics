@@ -60,13 +60,20 @@ This analysis evaluates key performance indicators across **$16.05M** in yearly 
 ---
 
 📁 Repository Structure
-Project/
+Customer_Churn_Analytics/
 │
 ├── Dataset/
-├── SQL/
+│   └── 02 Customer Churn-Dataset.xlsx
+│
 ├── Power BI/
+│   └──Customer_Churn_Dashboard.pbix
+│
 ├── Images/
+│   ├── dashboard_overview.png
+│   └── dashboard_analysis.png
+│
 ├── Documentation/
+│
 └── README.md
 
 ---
