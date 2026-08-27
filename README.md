@@ -3,10 +3,10 @@
 An end-to-end data analysis project focused on understanding customer churn, identifying retention risk drivers, and providing executive-level recommendations. This repository includes dataset analyses, service adoption patterns, and an automated Python tool that generates a print-ready executive PDF report.
 
 ## Dashboard Preview
-![Supply Chain Dashboard Overview](Welcome_Page.png)
-[Customer Insights.png]
-[Service Insights.png]
-[Payment Insights.png]
+![Welcome Page](Images/Welcome_Page.png)
+![Customer_Insights.png](Images/Customer_Insights.png)
+![Service_Insights.png](Images/Service_Insights.png)
+![Payment_Insights.png](Payment_Insights.png)
 
 ---
 
