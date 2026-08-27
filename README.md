@@ -6,7 +6,7 @@ An end-to-end data analysis project focused on understanding customer churn, ide
 ![Welcome Page](Images/Welcome_Page.png)
 ![Customer_Insights.png](Images/Customer_Insights.png)
 ![Service_Insights.png](Images/Service_Insights.png)
-![Payment_Insights.png](Payment_Insights.png)
+![Payment_Insights.png](Images/Payment_Insights.png)
 
 ---
 
