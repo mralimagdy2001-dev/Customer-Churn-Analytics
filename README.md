@@ -75,10 +75,10 @@ Customer-Churn-Analytics/
 │   └── Customer_Churn_Dashboard.pbix
 │
 ├── Images/
-│   ├── Welcome Page.png
-│   ├── Customer Insights.png
-|   ├── Service Insights.png
-|   └── Payment Insights.png
+│   ├── Welcome_Page.png
+│   ├── Customer_Insights.png
+|   ├── Service_Insights.png
+|   └── Payment_Insights.png
 | 
 ├── Documentation/
 │
